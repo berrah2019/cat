@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cat</string>
+
+    <string name="cat_fact_press_the_button">cat_fact_press_the_button</string>
+    <string name="cat_fact_get_fact">cat_fact_get_fact</string>
+    <string name="cat_fact_error">cat_fact_error</string>
+    <string name="push_button">Push Button</string>
+</resources>
